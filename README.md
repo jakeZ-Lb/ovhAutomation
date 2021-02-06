@@ -1,4 +1,5 @@
-npm install
+npm install 
+
 copy and fill in .env.example to .env
 
 vps.json is all vps addresses on file
